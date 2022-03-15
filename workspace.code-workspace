@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\4 TA CONT"
+		},
+		{
+			"path": "..\\kamol"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "new bootstrap"
+	}
+}
